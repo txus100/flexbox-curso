@@ -1,0 +1,18 @@
+body {
+background-color: lightgoldenrodyellow;
+font-family: 'Merienda', cursive;
+}
+.error-wrapper{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+flex-direction: column;
+}
+.error-heading{
+    margin-bottom: 42px;
+
+}
+img{
+    width: 50%;
+}
